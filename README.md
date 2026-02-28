@@ -85,8 +85,8 @@
 ###  **Version Control & Collaboration**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+
 
 </div>
 
@@ -99,9 +99,9 @@
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=animesh-samantaray&theme=dark&hide_border=true&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&border_radius=10" alt="GitHub Streak" />
 </div>
 
-<div align="center">
+<!-- <div align="center">
   <img width="100%" src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Graph" />
-</div>
+</div> -->
 
 ---
 
@@ -118,11 +118,11 @@
 
 ## 📝 **Values & Philosophy**
 
-<div align="center">
+ <div align="center">
   <img src="https://media.giphy.com/media/WGEufo3ffXdsyPqZYk/giphy.gif" width="25px"/> 
   <strong>Code → Build → Optimize → Learn → Repeat</strong>
   <img src="https://media.giphy.com/media/WGEufo3ffXdsyPqZYk/giphy.gif" width="25px"/>
-</div>
+</div> 
 
 **I'm passionate about creating clean, scalable, and maintainable solutions that solve real-world problems. Every line of code is an opportunity to improve and learn.**
 
