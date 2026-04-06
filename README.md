@@ -17,7 +17,7 @@
     <a href="https://leetcode.com/u/Animesh_Samantaray/" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
     </a>
-    <a href="https://my-port-folio-zeta-six.vercel.app/" target="_blank">
+    <a href="https://nova-portfolio-seven.vercel.app/" target="_blank">
       <img src="https://img.shields.io/badge/Portfolio-4A90E2?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
     </a>
     <a href="mailto:animeshsamantaray2@gmail.com">
