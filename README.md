@@ -14,7 +14,7 @@
     <a href="https://github.com/animesh-samantaray" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
-    <a href="https://leetcode.com/u/Animesh_Samantaray/" target="_blank">
+    <a href="https://leetcode.com/u/AnimeshSam/" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
     </a>
     <a href="https://animesh-1zcj.onrender.com/" target="_blank">
